@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andavits
-- 👀 I’m interested in behavioural statistics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 About human data in the data economy
+- 🌱 I’m currently very concerned about human influence on the environment
+- 💞️ I enjoy collaborating on data science projects
 - 📫 How to reach me anda.vitols@hotmail.ca
 
 <!---
